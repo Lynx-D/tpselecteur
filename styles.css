@@ -1,0 +1,36 @@
+header h1 {
+    color: #FF0000;
+    text-align: center;
+    font-size: 45px;
+}
+
+article h2 {
+    color: #0000FF;
+    font-size: 25px;
+}
+
+p {
+    background-color: #808080;
+}
+
+strong {
+    color: #9acd32;
+    font-weight: normal;
+}
+
+em {
+    color: #ffa500;
+    font-size: 20px;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+#article2 {
+    text-align: right;
+    color: #008000;
+    text-decoration: underline;
+}
+
+#pinkArticle {
+    background-color: pink;
+}
